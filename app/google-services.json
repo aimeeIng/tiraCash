@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028794639214",
+    "project_id": "tiracash",
+    "storage_bucket": "tiracash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028794639214:android:01d1b849d60012aae2977f",
+        "android_client_info": {
+          "package_name": "com.example.tiracash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028794639214-hs5sna773a9ses8980n8bori574e9j7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmFwxeA-Er8RWr-UAqtQ2eexLcfRwjq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028794639214-hs5sna773a9ses8980n8bori574e9j7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
